@@ -1,7 +1,8 @@
-/*
 //Forma de impresión en consola
-//console.log("Hola desde js")
 
+//EJERCICIO 1
+
+/* console.log("Hola desde js")
 //variables con tipos de datos distintos
 var nom = "Zaira"
 var e = 20
@@ -24,8 +25,10 @@ console.log(nom + e)
 console.log("mi nombre es:", nom, "tengo", e, "años", "me gusta", g1, "y", g2)
 
 //concatenar con template String
-console.log(`Mi nombre es: ${nom} tengo ${e} años y me gusta ${g1} y ${g2}`) */
+console.log(`Mi nombre es: ${nom} tengo ${e} años y me gusta ${g1} y ${g2}`) */ 
 
+
+//EJERCICIO 2 Quitalos comentarios par ver como funciona
 //Metodo de entrada, pedirle al usuario un dato y almacenarlo en una variable
 /* var nom = prompt('Ingressa tu nombre');
 var e = prompt('Ingresa tu edad');
@@ -37,6 +40,8 @@ var g2 = prompt('Ingresa otro hobby');
 
 console.log(`Me llamo ${nom} tengo ${e} años, me gusta ${g1} y ${g2}`); */
 
+
+//EJERCICIO 3
 //Pedir 3 numeros al usuario para realizar una suma
 var num1 = prompt('Ingresa un primer numero');
 var num2 = prompt('Ingresa el segundo numero');
